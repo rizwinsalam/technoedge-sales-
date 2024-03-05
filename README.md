@@ -2,7 +2,9 @@
 Power BI Analysis from raw email attachments
 
 <img width="878" alt="image" src="https://github.com/rizwinsalam/technoedge-sales-/assets/152194804/3ce19c16-f30f-45d2-9a97-49488bcb3544">
-The Power BI project I completed showcases my ability to revolutionize data workflows.
+
+
+This Power BI project I completed showcases my ability to revolutionize data workflows.
 
 Upon receiving raw data via email attachments, I bypassed traditional downloading and cleaning processes by automating tasks within Power BI. This not only saved time but also eliminated the need for manual data wrangling, ensuring accuracy and efficiency from the outset.
 
